@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581506271865",
+    "project_id": "techway-54dd2",
+    "storage_bucket": "techway-54dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581506271865:android:13b3e78dfce9013e45e2a8",
+        "android_client_info": {
+          "package_name": "com.example.techway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581506271865-a0la9fnnlsco7mc1vl799d8c1834tsr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-JFJJy8bcvaTwbYYpHz1QWAYOVUc_yFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581506271865-a0la9fnnlsco7mc1vl799d8c1834tsr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
