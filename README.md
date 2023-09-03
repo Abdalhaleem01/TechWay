@@ -1,6 +1,15 @@
 # techway
 
-A new Flutter project.
+• About the app:
+Introducing the future of shopping - our revolutionary e-commerce tech mobile app. Our app is 
+set to redefine the way you shop online. With a user-friendly interface and intuitive navigation, 
+browsing through a vast array of products from the comfort of your smartphone has never been 
+easier.
+• Why I created this app?
+I created our e-commerce tech mobile app with a vision to redefine the way people shop 
+online. With the rapid growth of the digital era, I saw the need for a user-friendly platform that 
+seamlessly connects buyers and sellers, offering a personalized and efficient shopping 
+experience.
 
 ## Getting Started
 
